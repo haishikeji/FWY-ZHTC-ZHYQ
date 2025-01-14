@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1921.2587890625" height="87.714111328125" viewBox="0 0 1921.2587890625 87.714111328125" fill="none">
+<path   fill-rule="evenodd"  fill="url(#linear_fill_VeWhKDsTO499p7ShdO8X0_0)"  d="M525.133 45.3696L504.595 24.903L1.12988 24.903L1.12988 1.12939L1920.13 1.12939L1920.13 24.903L1416.66 24.903L1396.13 45.3696L1289.63 45.3696L1248.44 86.5846L672.815 86.5846L631.629 45.3696L525.133 45.3696Z">
+</path>
+<path fill-rule="evenodd"  fill="url(#linear_border_VeWhKDsTO499p7ShdO8X0_0)"  d="M504.128 26.0324L524.336 46.1696L524.666 46.499L631.161 46.499L672.347 87.714L1248.91 87.714L1290.1 46.499L1396.6 46.499L1417.13 26.0324L1921.26 26.0324L1921.26 -1.72853e-05L0.000470996 -1.72853e-05L0.000470996 26.0324L504.128 26.0324ZM504.595 24.903L525.133 45.3696L631.629 45.3696L672.815 86.5846L1248.44 86.5846L1289.63 45.3696L1396.13 45.3696L1396.13 45.3676L1396.13 45.3657L1416.66 24.9077L1416.66 24.9053L1416.66 24.903L1920.13 24.903L1920.13 1.12939L1.12988 1.12939L1.12988 24.903L504.595 24.903Z">
+</path>
+<defs>
+<linearGradient id="linear_fill_VeWhKDsTO499p7ShdO8X0_0" x1="960.6298828125" y1="-43.3115234375" x2="960.6298828125" y2="86.584716796875" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0E5FFF" stop-opacity="0" />
+<stop offset="0.4149590210975875" stop-color="#0E5FFF" stop-opacity="0.51" />
+<stop offset="1" stop-color="#159AFF"  />
+</linearGradient>
+<linearGradient id="linear_border_VeWhKDsTO499p7ShdO8X0_0" x1="960.6298828125" y1="1.12939453125" x2="960.6298828125" y2="86.584716796875" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#19ECFF" stop-opacity="0" />
+<stop offset="1" stop-color="#36F7FF"  />
+</linearGradient>
+</defs>
+</svg>
